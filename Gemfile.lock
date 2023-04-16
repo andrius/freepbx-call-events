@@ -54,7 +54,7 @@ GEM
     diff-lcs (1.2.5)
     equalizer (0.0.11)
     eventmachine (1.0.7)
-    ffi (1.9.8)
+    ffi (1.15.5)
     future-resource (1.1.0)
     girl_friday (0.11.2)
       connection_pool (~> 1.0)
